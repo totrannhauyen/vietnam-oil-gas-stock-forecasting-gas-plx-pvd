@@ -1,0 +1,13 @@
+data/
+*.csv
+*.xlsx
+
+models/
+*.h5
+*.pth
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+.env
