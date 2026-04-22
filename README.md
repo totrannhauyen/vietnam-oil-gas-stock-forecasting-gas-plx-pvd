@@ -26,12 +26,11 @@ The dataset consists of historical daily trading data for each stock (GAS, PLX, 
 | Feature | Description |
 |--------|------------|
 | `date` | Trading date |
-| `open` | Opening price of the stock |
+| `close` | Closing price of the stock |
 | `high` | Highest price during the trading session |
 | `low` | Lowest price during the trading session |
-| `close` | Closing price of the stock |
+| `open` | Opening price of the stock |
 | `volume` | Number of shares traded |
-| `adj_close` *(optional)* | Adjusted closing price (if available) |
 
 ### 🔹 Data Characteristics
 - Time series data (chronologically ordered)
